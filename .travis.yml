@@ -4,4 +4,4 @@ node:
 - 6
 - 5
 - hhvm
-script: npm one.js
+script: node one.js
