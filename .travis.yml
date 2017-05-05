@@ -1,0 +1,7 @@
+language: node
+node:
+- 7
+- 6
+- 5
+- hhvm
+script: npm one.js
