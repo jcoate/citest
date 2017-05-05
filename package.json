@@ -1,0 +1,22 @@
+{
+  "name": "citest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcoate/citest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcoate/citest/issues"
+  },
+  "homepage": "https://github.com/jcoate/citest#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
